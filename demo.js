@@ -1,3 +1,5 @@
+// adding new code.
+
 // this is for the demo
 var LevelRewards =
 [
